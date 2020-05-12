@@ -28,7 +28,7 @@
 
 
 ## Citywise Visitors
-![](images/pagewise.png)
+![](images/citywise.png)
 
 
 
